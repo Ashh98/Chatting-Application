@@ -4,7 +4,7 @@ This project is aiming to deliver a basic Chatting Application that is fully cap
 
 ## Description
 
-The chatting application is developed using Java OOP and Java Server Socket by establishing a TCP connection-oriented channel that would allow for one-to-one and many-to-many chatting.
+This chatting application is developed using Java OOP and Java Server Socket by establishing a TCP connection-oriented channel that would allow for one-to-one as well as party chatting.
 
 ### Features
 
