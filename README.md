@@ -1,72 +1,20 @@
 # Chatting Application using Java Server Socket
 
-This is a TINY (TINY Is Not YART ([Yet](https://github.com/CarsonChen1129/README-template) [Another](https://gist.github.com/zsim0n/1d943a0f3e5af59e1e1d91a3a1e9eae1) [README](https://github.com/matiassingers/awesome-readme/issues/117) Template)) README template. Put a brief description of the project here, and optionally include a screenshot with a nice frame:
-
-<div align="center">
-  <kbd>
-    <img src="https://i.imgur.com/zdY3ZC9.png" />
-  </kbd>
-</div>
+This project is aiming to deliver a basic Chatting Application that is fully capable and ready to use for texting and chatting purposes.
 
 ## Description
 
-Longer description explaining the rationale/intent behind the project, what it's good for, and how it works. If the next two subsections are short enough, they can be merged up into this block—perhaps as bulleted lists.
+The chatting application is developed using Java OOP and Java Server Socket by establishing a TCP connection-oriented channel that would allow for one-to-one and many-to-many chatting.
 
 ### Features
 
-- It's TINY. A short README is a good README.
-- List other standout qualities that'll make a potential user want to try out your project.
+- One-to-one and party texting through user-user connection.
+- Sending an online/offline notification once a user goes online/offline to all online users through server-user connection.
+- Login/Logoff of users through user-server connection.
 
-### Built with
+### Built With
 
-- Markdown
-- Love
+- Java Server Socket
+- Java OOP
+- Data Structures and Algorithms
 
-## Getting started
-
-### Prerequisites
-
-Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
-
-### Install
-
-Ideally, write a script whose usage is described here.
-
-### Configure
-
-Manual, context-specific tasks not covered in the installation process.
-
-### Usage
-
-GIFs are useful here to see the project in action.
-
-### Troubleshooting
-
-Or FAQs, if that's more appropriate.
-
-## Back matter
-
-### Legal disclaimer
-
-Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### Acknowledgements
-
-Thanks to all who helped inspire this template.
-
-### See also
-
-- [A simple README.md template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-- [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-- [A sample README for all your GitHub projects](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-- [A simple README.md template to kickstart projects](https://github.com/me-and-company/readme-template)
-
-### To-do
-
-- [ ] Still need to do this
-- [ ] ~~Decided not to do this~~
-- [x] Done!
-
-### License
-
-This project is licensed under the [MIT License](LICENSE.md).
